@@ -1,0 +1,15 @@
+whatis
+deluser
+history
+ls
+papo
+remdir
+rm -r
+touch
+touch
+cp
+basename
+dirname
+history
+dirname
+dirname
